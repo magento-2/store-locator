@@ -18,18 +18,18 @@ One of the outstanding feature Magento 2 Store Locator brings is integrating Goo
 
 To use Store Finder module, customer need to enter the address into the field. However, instead of typing manually, Google Suggest Address will auto-identify logically the address basing on the first characters. The suggestion address is listed in the dropdown list. 
 
-![Magento 2 Store Locator](http://imgur.com/fCQ5n7r)
+![Magento 2 Store Locator](http://i.imgur.com/fCQ5n7r.png)
 
 Besides, a special functionality is coming by Mageplaza Store Locator, that is Automatic Locator button. Only need to tap the button, the current position will be filled out without any typing.
 Show Store Icon 
 Right after submitting the address, all stores that match with the request will be displayed with icon on Google Map. Click on the store icon, the box will show Store Name, Address, Working Time, Phone Number and Website.
 
-![Magento 2 Store Locator](http://imgur.com/K4eOVm0)
+![Magento 2 Store Locator](http://i.imgur.com/K4eOVm0.png)
 
 ### Get Detailed Direction
 Store Locator Magento 2 not only shows the nearest store but also offer the customer the direction of shortest way from the current place. 
 
-![Magento 2 Store Locator](http://imgur.com/6ZrkNmJ)
+![Magento 2 Store Locator](http://i.imgur.com/6ZrkNmJ.png)
 
 ### 360-degree image
 
@@ -47,7 +47,7 @@ Saying goodbye for reloading the whole page and navigating to other page as the 
 
 The results of the store from Magento 2 Store Locator come with more detailed information includes Store Name, Address, Website, Phone Number, Opening & Closing Hours and Store Image. All of them both give the visitor a better overview before getting the store.
 
-![Magento 2 Store Locator](http://imgur.com/g8RwOSY)
+![Magento 2 Store Locator](http://i.imgur.com/g8RwOSY.png)
  
 ### Flat and responsive design
 
