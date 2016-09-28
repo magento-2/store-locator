@@ -80,3 +80,5 @@ Store Locator can fit with every screen size of multiple devices: PC, Tablet, an
 -	Complete Meta Information for SEO
 -	Customizable store information (edit/ delete/ remove)
 -	Import Store Data from CSV file
+
+Source: https://www.mageplaza.com/magento-2-store-locator-extension/
