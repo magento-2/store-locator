@@ -2,83 +2,83 @@
 
 ## Introduction
 
-<strong><a href="https://www.mageplaza.com/magento-2-store-locator-extension/" class="no-text-color">Magento 2 Store Locator</a></strong>/Store Finder/Dealer Locator extension makes your store address visible on Google Map. Using Store Finder extension, your Magento 2 store is closer than ever to reach out.
+<strong><a href="https://www.mageplaza.com/magento-2-store-locator-extension/" class="no-text-color">Magento 2 Store Locator</a></strong> extension is a powerful tool to manage your store locations as well as connecting your physical store with your store website. Have you ever wondered how you can bring entire of your physical store system into your website? This is a perfect solution for you - <strong><a href="https://www.mageplaza.com/magento-2-store-locator-extension/" class="no-text-color">Magento 2 Store Locator</a></strong> extension.
 
-Let image that you are owning a series of fast food store but they scatter at different positions as well as it is difficult to know how to get there. <b>Magento 2 Store Locator</b> module is the right ecommerce solution that applies Google Map application. Dealer Locator will show the clear direction and offer the nearest store from the visitor’s place.
+Let me give you an imagination with your current business. You may own a chain of stores, shops, restaurants or so on and the number could increase to hundreds even thousands. And the problem here is that each of your stores appears as a line of an address on your website, which is as same as the rests. The situation is a wasted because each store has its own promotion strategy in fact and the store can’t use it for online customers. Furthermore, your customers may feel hard to find the correct destination of your store as well. Finding a location without an image is almost as difficult as looking for someone that you do not know how they look.
 
-Moreover, this magento 2 module, coming with the friendly interface, supports a plenty of search criterias for the advanced search. After access to your website, customers can easily search the perfect store to shop by area, distance/ radius or filter them by tags. Especially, in addition to the basic info as Store Name, Address, Website and Phone Number, the visitors can follow the opening & closing hours for the better plan.
+<b>Magento 2 Store Locator</b> extension helps your shoppers not only search your store location quickly but also view the store on the Maps with fully information and direction in the most realistic way.
 
 ## Features
 
-### Google Map Integration
+### Google Suggest Technology
 
-One of the outstanding feature Magento 2 Store Locator brings is integrating Google Map Application into the module. Hence, it is more convenient to find the needed quickly.
-
-### Auto-suggest address
-
-To use Store Finder module, customer need to enter the address into the field. However, instead of typing manually, Google Suggest Address will auto-identify logically the address basing on the first characters. The suggestion address is listed in the dropdown list. 
-
-![Magento 2 Store Locator](http://i.imgur.com/fCQ5n7r.png)
-
-Besides, a special functionality is coming by Mageplaza Store Locator, that is Automatic Locator button. Only need to tap the button, the current position will be filled out without any typing.
-Show Store Icon 
-Right after submitting the address, all stores that match with the request will be displayed with icon on Google Map. Click on the store icon, the box will show Store Name, Address, Working Time, Phone Number and Website.
-
-![Magento 2 Store Locator](http://i.imgur.com/K4eOVm0.png)
-
-### Get Detailed Direction
-Store Locator Magento 2 not only shows the nearest store but also offer the customer the direction of shortest way from the current place. 
-
-![Magento 2 Store Locator](http://i.imgur.com/6ZrkNmJ.png)
-
-### 360-degree image
-
-Beside the direction on Google Map, to give the realistic direction, the extension especially brings 360-degree image of the street view.
-
-### Advanced search by many criterias
-
-Installing Magento 2 Store Finder, your clients can use many criterias to detect the great store. They include area, radius or some tags (cafe, book, shopping, so on) depending on store admin’s configuration. For searching by radius, that is the slider bar and the user just slide the bar to determine the needed distance.
-
-### Ajax technology
-
-Saying goodbye for reloading the whole page and navigating to other page as the normal search, Ajax from Store Locator module allows displaying the search results instantly on that page, that makes your website more professional.
-
-### Attach more store information
-
-The results of the store from Magento 2 Store Locator come with more detailed information includes Store Name, Address, Website, Phone Number, Opening & Closing Hours and Store Image. All of them both give the visitor a better overview before getting the store.
-
-![Magento 2 Store Locator](http://i.imgur.com/g8RwOSY.png)
+With the integration of Google Suggest technology, your customers can easily search for the location they want in a trice. Only with a couple of letters or numbers typed in, your shoppers will be given a list of relevant address to select.
+Moreover, the “Find me” button is also available in Magento 2 Store Locator extension. With the help of “Find me”, your visitors even do not have to type anything. All they need to do is click on “Find me” and their location will be automatically detected. This feature brings a lot of advantages when your shoppers try to search a store.
  
-### Flat and responsive design
+![Magento 2 Store Locator](http://i.imgur.com/WjSpOH1.png)
 
-Store Locator can fit with every screen size of multiple devices: PC, Tablet, and Mobile. Hence, your store become closer and closer to the audience because they can search the suitable store wherever they stand.
+### Search measurements
 
-## Feature List
+Magento 2 Store Locator extension allows your visitors to search a store location by many methods to suitable with every situation and requirement. For detail, your shoppers can search by the distance from their spot or by the area.
+Moreover, each store will be tagged with information such as product types, facility, product brands or promotion. These tags are used as filters to narrow the results for shoppers while searching.
 
-### For User
+### View Store on Map
 
--	Find the nearest store in the shortest way
-  +	Search by area (the current position)
-  +	Search by criterias  
-  +	Filter by tags
-  +	Get the clear direction to the needed store
-  +	Get the realistic guide via 360-degree image
-  +	Auto-fulfill the address field
--	Get more store information
-  +	Store Name
-  +	Store Address
-  +	Contact Information: Phone Number, Website, Email
-  +	Daily Working Hours, Day off
-  +	Store Image
+Your store location will display with an interesting funny eye-catching icon in the map. The icon is customizable by store admin in the back end. Moreover, besides the map and store icon, general information of the store also appears for shoppers to view. The information includes store name, address, number phone, email, link to social channel page, opening hour and stunning store images.
+ 
+![Magento 2 Store Locator](http://i.imgur.com/2iCjFb9.png)
 
-### For Store Admin
+### Get the Most Convenient Direction
 
--	Offer store information from the backend
--	Set working hours of each store
--	Set the default criterias
--	Set the default radius for searching
--	Complete Meta Information for SEO
--	Customizable store information (edit/ delete/ remove)
--	Import Store Data from CSV file
+Some people have the problem with finding correct direction on the map. They can not orient where they are as well as which way that they should go. Therefore, you should make a clear instruction of the path to lead visitors straight away to your store. 
+Magento 2 Store Locator assists you in automatically show the fastest road to a store location for your shoppers. The streets and direction a shopper should go not only appear apparently but also are calculated for the most time-saving way.
+ 
+![Magento 2 Store Locator](http://i.imgur.com/Q4AU38X.png)
+
+### Realistic Street View
+
+Have you ever experienced the Google Street View, 360-degree and panoramic? These tools will bring your shoppers a whole new level of searching direction on the map. The realistic street view will be photographed and upload to online map for viewing. Thus, your shoppers can see and go on the virtual road as same as they actually travel on the real road.
+
+### Bulk Import Store Location
+
+To give you the most convenience when managing the store locations, Magento 2 Store Locator extension allows you to import hundreds even thousands of locations at once using CSV file. No matter how big that your business can grow, Magento 2 Store Locator is always suitable for you.
+
+## Feature list
+
+### Key Features
+
+-	View store list and store location on Google map
+-	Search store by area (country/state, city, and zip code)
+-	Search store by distance
+-	Filter by tags
+-	Auto-suggest by Google Suggest Address
+-	Auto-detected shoppers location by “Find me”
+-	Display distance from visitor's location to each store
+-	View instant directions from a location to any store
+-	Switch view between map and satellite
+-	View store images, street view
+-	Google Street view 360 (Coming soon)
+-	Manage store information: Opening hours, days off & special working days, Address, phone, fax, email, website url, etc.
+-	Create unlimited store locations
+-	Add new store manually or bulk import store from CSV files
+-	Add/edit/delete store detailed information.
+-	Configure store’s meta info for better SEO
+-	Configure Search criteria
+-	Set Default Radius for search
+-	Configure color & map style to fit general store theme
+-	Configure store icon when displaying on Google map.
+
+### Additional Features
+
+-	Open source 100%
+-	Easy to install
+-	Friendly interface
+-	Fully compatible with Mageplaza extensions
+-	Supports multiple stores
+-	Supports multiple languages
+-	Easy to configure
+-	1-year support
+-	1-year upgrade
+-	30 days guarantee money back.
 
 Source: https://www.mageplaza.com/magento-2-store-locator-extension/
