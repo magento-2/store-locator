@@ -1,4 +1,4 @@
-# Magento 2 Store Locator Introduction
+# Magento 2 Store Locator - Google Map Locator by Mageplaza
 
 ## Introduction
 
