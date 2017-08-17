@@ -2,7 +2,7 @@
 
 ## Introduction
 
-<strong><a href="https://www.mageplaza.com/magento-2-store-locator-extension/" class="no-text-color">Magento 2 Store Locator</a></strong> extension is a powerful tool to manage your store locations as well as connecting your physical store with your store website. Have you ever wondered how you can bring entire of your physical store system into your website? This is a perfect solution for you - <strong><a href="https://www.mageplaza.com/magento-2-store-locator-extension/" class="no-text-color">Magento 2 Store Locator</a></strong> extension.
+<strong><a href="https://www.mageplaza.com/magento-2-store-locator-extension/" class="no-text-color">Magento 2 Store Locator Extension</a></strong> is a powerful tool to manage your store locations as well as connecting your physical store with your store website. Have you ever wondered how you can bring entire of your physical store system into your website? This is a perfect solution for you - <strong>Magento 2 Store Locator</a></strong> extension.
 
 Let me give you an imagination with your current business. You may own a chain of stores, shops, restaurants or so on and the number could increase to hundreds even thousands. And the problem here is that each of your stores appears as a line of an address on your website, which is as same as the rests. The situation is a wasted because each store has its own promotion strategy in fact and the store can’t use it for online customers. Furthermore, your customers may feel hard to find the correct destination of your store as well. Finding a location without an image is almost as difficult as looking for someone that you do not know how they look.
 
